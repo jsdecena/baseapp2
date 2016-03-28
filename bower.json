@@ -1,0 +1,34 @@
+{
+  "name": "Laravel 52",
+  "description": "Laravel 5.2.*",
+  "main": "",
+  "authors": [
+    "Jeff Simons Decena <jeff.decena@yahoo.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "http://jsdecena.me",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "adminlte#^2.3.2",
+    "Ionicons": "ionicons#^2.0.1",
+    "bootstrap": "~3.3.6",
+    "font-awesome": "^4.5.0",
+    "mjolnic-bootstrap-colorpicker": "xaguilars-bootstrap-colorpicker#^2.3.0",
+    "trumbowyg": "~1.1.7",
+    "slimscroll": "^1.3.7",
+    "fastclick": "^1.0.6",
+    "bootstrap-datepicker": "^1.5.1",
+    "html5shiv": "^3.7.3",
+    "respond": "^1.4.2",
+    "raphael": "^2.1.4",
+    "morris.js": "morrisjs#^0.5.1"
+  }  
+}
