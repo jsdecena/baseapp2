@@ -21,6 +21,7 @@ How to install
 
 Admin Employee credentials:
 
+- url: [localhost:8000/admin](http://localhost:8000/admin)
 - email: jane@doe.com.com
 - pass: Testing123
 
